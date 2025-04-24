@@ -1,0 +1,38 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+  display: flex;
+  height: 5rem;
+  background-color: blue;
+  padding: 0 2rem;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 1rem;
+  color: black;
+}
