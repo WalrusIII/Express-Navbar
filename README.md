@@ -1,0 +1,1 @@
+Here is an Express Navbar project. Where, using express, a webpage with a navbar with 3 routes is provided. Each routes to the repo for a previous assignment. A CSS file was added to clean up the navbar and make it more visually appealing.
